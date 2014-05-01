@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	<option version="1.0">
+	<option version="1.2">
 		<name>Useless</name>
+		<gender>Male</gender>
 	</option>
 </root>
